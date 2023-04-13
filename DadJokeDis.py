@@ -18,7 +18,7 @@ jokes = [
 joke = random.choice(jokes)
 
 # Discord webhook URL
-webhook_url = "https://discord.com/api/webhooks/WEBHOOK_ID/WEBHOOK_TOKEN"
+webhook_url = "Your webhook url"
 
 # Payload for the webhook
 payload = {
